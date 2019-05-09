@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/REG_FILE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module REG_FILE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sim_1/imports/15/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
