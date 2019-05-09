@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sim_1/imports/15/test.v,1557318027,verilog,,,,test,,,,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/REG_FILE.v,1557401931,verilog,,D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/alu.v,,REG_FILE,,,../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/alu.v,1557232759,verilog,,D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/control.v,,alu,,,../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/control.v,1557386185,verilog,,D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/top.v,,control,,,../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/imports/15/top.v,1557403400,verilog,,D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sim_1/imports/15/test.v,,top,,,../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0,,,,,
+,,,,,,clk_wiz_0;clk_wiz_0_clk_wiz_0_clk_wiz,,,,,,,,
+D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1557390878,verilog,,D:/vivado/lab5/mips_cpu_v1/mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v,,dist_mem_gen_0,,,../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0,,,,,

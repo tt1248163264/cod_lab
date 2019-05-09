@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../mips_cpu_v1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" \
+"../../../../mips_cpu_v1.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_sim_netlist.v" \
+"../../../../mips_cpu_v1.srcs/sources_1/imports/15/REG_FILE.v" \
+"../../../../mips_cpu_v1.srcs/sources_1/imports/15/alu.v" \
+"../../../../mips_cpu_v1.srcs/sources_1/imports/15/control.v" \
+"../../../../mips_cpu_v1.srcs/sources_1/imports/15/top.v" \
+"../../../../mips_cpu_v1.srcs/sim_1/imports/15/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
